@@ -1,0 +1,19 @@
+
+/* 
+h1{
+    color: blue;
+}
+
+h1{
+    color: rgb(200, 200, 200);
+}
+*/
+
+h1{
+    /*
+    border-style: solid;
+    border-width:10px;
+    border-color:#989898;
+    */
+    border: 10px solid #000000;
+}
